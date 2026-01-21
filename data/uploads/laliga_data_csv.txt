@@ -1,0 +1,7 @@
+Season,Winner,Manager,Points,Goals Scored,Goals Conceded,Top Scorer,Top Scorer Goals,Runner Up,Runner Up Points,Stadium,City,Final Match Date
+2012-2013,Barcelona,Tito Vilanova,100,115,40,Lionel Messi,46,Real Madrid,85,Camp Nou,Barcelona,2013-06-01
+2013-2014,Atletico Madrid,Diego Simeone,90,77,26,Cristiano Ronaldo,31,Barcelona,87,Vicente Calderon,Madrid,2014-05-18
+2014-2015,Barcelona,Luis Enrique,94,110,21,Cristiano Ronaldo,48,Real Madrid,92,Camp Nou,Barcelona,2015-05-23
+2015-2016,Barcelona,Luis Enrique,91,112,29,Luis Suarez,40,Real Madrid,90,Camp Nou,Barcelona,2016-05-14
+2016-2017,Real Madrid,Zinedine Zidane,93,106,41,Lionel Messi,37,Barcelona,90,Santiago Bernabeu,Madrid,2017-05-21
+2017-2018,Barcelona,Ernesto Valverde,93,99,29,Lionel Messi,34,Atletico Madrid,79,Camp Nou,Barcelona,2018-05-20
